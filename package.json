@@ -1,6 +1,6 @@
 {
   "name": "dron-sss",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "dron": {
     "version": "0.0.2"
